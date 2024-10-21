@@ -50,10 +50,9 @@ una disposicionHorizontal(configurarlo en centrar y color car un boton, colocar 
    l) Anadir un sonido --> Componente reproductor (Dancing_On_Green_Grass.mp3) y un componente sonido (Monkey.wav)
 
 ## Diseno
-<div style={{ display: "wrap", flexWrap: "no-wrap" }}>
+
   [diseno1](./demoDiseno1.png)
   [diseno2](./demoDiseno2.png)
   [diseno3](./demoDiseno3.png)
-</div>
 
 ## Bloques
