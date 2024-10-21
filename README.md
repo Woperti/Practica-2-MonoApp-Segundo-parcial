@@ -51,7 +51,7 @@ una disposicionHorizontal(configurarlo en centrar y color car un boton, colocar 
 
 ## Diseno
 
-  [diseno1](./demoDiseno1.png)
+  (./demoDiseno1.png)
   [diseno2](./demoDiseno2.png)
   [diseno3](./demoDiseno3.png)
 
